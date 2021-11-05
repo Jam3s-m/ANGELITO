@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@200&family=Barlow:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@300&display=swap');
 
 .slider ul.indicators li.indicator-item.active {
   background-color: #ADB5BD;
@@ -14,7 +14,7 @@
 
 .nav-wrapper
 {
-	text-align:center;
+	text-align:center;  
 }
 .theArtist
 {
@@ -22,7 +22,7 @@
   -moz-box-sizing: content-box;
   box-sizing: content-box;
   border: none;
-  font: normal 76px/1 "Barlow", Helvetica, sans-serif;
+  font: normal 76px/1 "barlow", impact, arial;
   color: #495057;
   text-align: center;
   -o-text-overflow: ellipsis;
@@ -34,7 +34,7 @@
   -moz-box-sizing: content-box;
   box-sizing: content-box;
   border: none;
-  font: normal 75px/normal "Barlow", Helvetica, sans-serif;
+  font: normal 75px/normal "barlow", impact, arial;
   color: rgba(255,255,255,1);
   text-align: center;
   -o-text-overflow: clip;
@@ -82,14 +82,14 @@
     box-sizing:border-box
 }
 .demo-3 figure h2 {
-    font-family:'Barlow';
+    font-family:'barlow';
     color:#fff;
     font-size:20px;
     text-align:center;
 }
 .demo-3 figure p {
     display:block;
-    font-family:'Barlow';
+    font-family:'barlow';
     font-size:12px;
     line-height:18px;
     margin:0;
@@ -134,7 +134,7 @@
   -moz-box-sizing: content-box;
   box-sizing: content-box;
   border: none;
-  font: normal 76px/1 "Barlow", impact, arial;
+  font: normal 76px/1 "barlow", impact, arial;
   color: #495057;
   text-align: left;
   -o-text-overflow: ellipsis;
@@ -181,7 +181,7 @@
   -moz-box-sizing: content-box;
   box-sizing: content-box;
   border: none;
-  font: normal 40px/1 "Barlow", Helvetica, sans-serif;
+  font: normal 40px/1 "barlow", impact, arial;
   color: white;
   background-size: cover;
   -o-text-overflow: ellipsis;
@@ -193,7 +193,7 @@
   -moz-box-sizing: content-box;
   box-sizing: content-box;
   border: none;
-  font: normal 56px/1 "Barlow", Helvetica, sans-serif;
+  font: normal 56px/1 "barlow", impact, arial;
   color: #495057;
  
   -o-text-overflow: ellipsis;

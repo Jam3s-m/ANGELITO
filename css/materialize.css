@@ -1635,7 +1635,7 @@
  *    user zoom.
  */
 html {
-  font-family: sans-serif;
+  font-family: 'Barlow', sans-serif;
   /* 1 */
   -ms-text-size-adjust: 100%;
   /* 2 */
@@ -5179,28 +5179,28 @@ nav {
  }
 
 @font-face {
-  font-family: "Roboto";
-  src: url("../font/roboto/Roboto-Thin.ttf");
+  font-family: 'Barlow', sans-serif;
+  src: url("../font/barlow/barlow-Thin.ttf");
   font-weight: 200; }
 
 @font-face {
-  font-family: "Roboto";
-  src: url("../font/roboto/Roboto-Light.ttf");
+  font-family: 'Barlow', sans-serif;
+  src: url("../font/barlow/barlow-Light.ttf");
   font-weight: 300; }
 
 @font-face {
-  font-family: "Roboto";
-  src: url("../font/roboto/Roboto-Regular.ttf");
+  font-family: 'Barlow', sans-serif;
+  src: url("../font/barlow/barlow-Regular.ttf");
   font-weight: 400; }
 
 @font-face {
-  font-family: "Roboto";
-  src: url("../font/roboto/Roboto-Medium.ttf");
+  font-family: 'Barlow', sans-serif;
+  src: url("../font/barlow/barlow-Medium.ttf");
   font-weight: 500; }
 
 @font-face {
-  font-family: "Roboto";
-  src: url("../font/roboto/Roboto-Bold.ttf");
+  font-family: 'Barlow', sans-serif;
+  src: url("../font/barlow/barlow-Bold.ttf");
   font-weight: 700; }
 
 a {
@@ -5208,7 +5208,7 @@ a {
 
 html {
   line-height: 1.5;
-  font-family: "Roboto", sans-serif;
+  font-family: 'Barlow', sans-serif;
   font-weight: normal;
   color: rgba(0, 0, 0, 0.87); }
   @media only screen and (min-width: 0) {
